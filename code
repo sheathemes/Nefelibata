@@ -529,7 +529,7 @@ a:hover{cursor:url("https://i.imgur.com/IepP2.jpg"), auto !important;}
 .pinned {
     color: {color:links};
     font-weight: 700;
-    margin-top: -70px;
+    margin-top: -40px;
     position: absolute;
 }
 
