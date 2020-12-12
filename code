@@ -76,31 +76,31 @@ CREDITS
  
 <!--Custom Options-->
 <meta name="color:background" content="#f8f8f8" />
-<meta name="color:accent" content="#0f0f0f" />
-<meta name="color:accent two" content="#F38A8A" />
-<meta name="color:accented text" content="#ffffff" />
-<meta name="color:Text" content="#888888" />    
-<meta name="color:bold" content="#c54730"/>
-<meta name="color:italic" content="#c54730"/>
-<meta name="color:underline" content="#c54730"/>
+<meta name="color:accent" content="#d4c3b5" />
+<meta name="color:accent two" content="#27231d" />
+<meta name="color:accented text" content="#000000" />
+<meta name="color:Text" content="#444444" />    
+<meta name="color:bold" content="#64848c"/>
+<meta name="color:italic" content="#918d7c"/>
+<meta name="color:underline" content="#918d7c"/>
 <meta name="color:Links" content="#000000" />
 <meta name="color:Link Hover" content="#a8a8a8" />
 <meta name="color:text selection" content="#ffffff" />
-<meta name="color:text selection background" content="#c54730" />
-<meta name="color:Blockquote" content="#c54730" />
-<meta name="color:scrollbar" content="#918D7C" />
-<meta name="color:sidebar title" content="#ffffff" />
+<meta name="color:text selection background" content="#918d7c" />
+<meta name="color:Blockquote" content="#64848c" />
+<meta name="color:scrollbar" content="#d4c3b5" />
+<meta name="color:sidebar title" content="#000000" />
 <meta name="color:Posts" content="#ffffff" />
 <meta name="color:Post Title" content="#000000" />
 <meta name="color:Post Borders" content="#f6f6f6" />
 <meta name="color:question" content="#000000" />
 <meta name="color:question background" content="#fafafa" />
 <meta name="color:chat odd" content="#00000"/>
-<meta name="color:chat even" content="#c54730"/>
-<meta name="color:pagination" content="#000000" />
+<meta name="color:chat even" content="#918d7c"/>
+<meta name="color:pagination" content="#ffffff" />
 <meta name="color:permalink" content="#ffffff" />
-<meta name="color:permalink background" content="#0f0f0f" />
-<meta name="color:permalink hover" content="#cccccc" />
+<meta name="color:permalink background" content="#222222" />
+<meta name="color:permalink hover" content="#dadada" />
  
 <meta name="select:Background Attachment" content="fixed" title="fixed">
 <meta name="select:Background Attachment" content="scroll" title="scroll">
