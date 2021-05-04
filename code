@@ -101,6 +101,20 @@ CREDITS
 <meta name="color:permalink" content="#ffffff" />
 <meta name="color:permalink background" content="#222222" />
 <meta name="color:permalink hover" content="#dadada" />
+
+<!-------- update tabs -------->
+
+<meta name="color:update accent" content="#d4c3b5" />
+<meta name="color:update accent text" content="#ffffff" />
+<meta name="color:update title" content="#ffffff" />
+<meta name="color:update title background" content="#222222" />
+<meta name="color:update text content" content="#444444" />
+<meta name="color:update content background" content="#ffffff" />
+<meta name="color:update bold" content="#918d7c"/>
+<meta name="color:update italic" content="#918d7c"/>
+<meta name="color:update underline" content="#918d7c"/>
+<meta name="color:update Links" content="#000000" />
+<meta name="color:update Link Hover" content="#a8a8a8" />
  
 <meta name="select:Background Attachment" content="fixed" title="fixed">
 <meta name="select:Background Attachment" content="scroll" title="scroll">
