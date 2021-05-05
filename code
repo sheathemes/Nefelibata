@@ -1422,6 +1422,25 @@ iframe.tumblr_audio_player {
     text-align: {select:text align};
 }
 
+.updates-description b {
+    color: {color:update bold};
+}
+
+.updates-description i {
+    color: {color:update italic};
+}
+
+.updates-description u {
+    color: {color:update underline}
+}
+
+.updates-description a {
+    color: {color:update Links}
+}
+.updates-description a:hover {
+    color: {color:update Link Hover};
+}
+
 .la-user-edit {
     background-color: {color:accent};
     color: {color:accented text};
